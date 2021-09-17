@@ -1,4 +1,4 @@
-# learnin_bloc_architecture
+# bloc_architecture_demo
 
 A new Flutter project.
 
